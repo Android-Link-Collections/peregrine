@@ -21,8 +21,9 @@ unofficial A9
 
 Lineage OS 16.0
 -----
-* [XDA](https://forum.xda-developers.com/t/rom-unofficial-9-0-lineageos-16-0-peregrine.3835030/post-86430527)
-* [Download](https://mega.nz/file/wGYA0bLR#https://mega.nz/file/te41Ba6S%23cQJaT8sPfnq-MEEL-XaXx0wdGWahi1DYqal9JH8Mn20)
+* [XDA](https://forum.xda-developers.com/t/rom-unofficial-9-0-lineageos-16-0-peregrine.3835030/page-23#post-87150987)
+* [Download](https://mega.nz/file/5fBRFLSD#miS7DhS2gEoUJAeVj-5dRWeKZfav_4_nkZLXYsM8_30)
+* [Download opengapps](https://mega.nz/file/4XpE0KzJ#p8wCqZTc50mCuKUkUzypeNrTrXQvnjiVwoz0WqwiLDs)
 
 
 official A8.1
