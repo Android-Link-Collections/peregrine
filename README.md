@@ -135,5 +135,5 @@ A9
 local manifests
 -----
 
-Github(https://github.com/SirRGB/local_manifests/tree/main/peregrine)
-Github(https://github.com/lin14-mGoms/local_manifests/tree/cm-14.1-oms)
+* [Github](https://github.com/SirRGB/local_manifests/tree/main/peregrine)
+* [Github](https://github.com/lin14-mGoms/local_manifests/tree/cm-14.1-oms)
