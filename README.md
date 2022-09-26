@@ -62,8 +62,8 @@ unOFFICIAL A7.1.2
 
 Lineage OS 14.1
 -----
-* [XDA](https://forum.xda-developers.com/t/rom-official-peregrine-7-x-lineageos-14-1.3469103/page-69#post-87137503)
-* [Download](https://mega.nz/file/UWIiSBpS#zCXofaTC8mghMeu33dSGLSanFbweYqPHu8NUpp_3zgw)
+* [XDA](https://forum.xda-developers.com/t/rom-official-peregrine-7-x-lineageos-14-1.3469103/page-69#post-87409709)
+* [Download](https://mega.nz/file/lKRXWIQB#1O1tmXvGzmO03687O3s8GOQvD0U2-VWQjE0F6Y7Qe10)
 
 
 unofficial A7.1.2
