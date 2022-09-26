@@ -71,7 +71,7 @@ unofficial A7.1.2
 
 Lineage OS 14.1 Substratum/MicroG
 -----
-* [XDA](https://forum.xda-developers.com/t/rom-lineageos-14-1-substratum-for-moto-g-lte-peregrine.3967207/page-7#post-87158759)
+* [XDA](https://sourceforge.net/projects/lin14-mgoms/files/peregrine/lineage-14.1-20220911-UNOFFICIAL-oms-peregrine.zip/download)
 * [Download](https://sourceforge.net/projects/lin14-mgoms/files/peregrine)
 
 XenonHD
